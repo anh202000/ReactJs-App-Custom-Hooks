@@ -1,0 +1,2 @@
+export const TODO_INPUT =  'TODO_INPUT'
+export const SUBMIT_TODO_INPUT =  'SUBMIT_TODO_INPUT'
